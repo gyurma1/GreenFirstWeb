@@ -3,10 +3,7 @@
     src: url("assets\Fonts\Consolas\consola.ttf");
     font-weight: 500;
 }
-header {
-    /*background-color:#333333;
-    display: inline-flex;*/
-}
+
 .nav-div
 {
     background-color: #333333;
@@ -90,4 +87,3 @@ h2{
     text-align: justify;
   text-justify: inter-word;
   }
-  

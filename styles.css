@@ -1,6 +1,6 @@
 @font-face {
     font-family: "consolas";
-    src: url("assets\Fonts\Consolas\consola.ttf");
+    src: url("assets/Fonts/Consolas/consola.ttf");
     font-weight: 500;
 }
 
@@ -62,16 +62,16 @@ body{
 .szöveg-1{
     padding: 20px;
 }
-.text-1 h1{
+.text-myself h1{
     color:blue;
     font-family: 'roboto';
     
 }
-.szaggatott{
+.broken-line{
     text-align:center;
     padding: 20px;
 }
-.text-2{
+.text-article{
     padding: 20px;
 }
 h3{

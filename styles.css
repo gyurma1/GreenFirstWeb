@@ -74,16 +74,14 @@ body{
 .text-article{
     padding: 20px;
 }
-h3{
+h2{
     color:#ff0099;
 }
-h2{
-    text-align: center;
+#technology{
+  text-align: center;
+  color: #333333;
+  font-size: x-large;
 }
-
-
-
-
   
   p{
     font-family: 'consolas',Courier, Arial, Helvetica, sans-serif;
@@ -91,4 +89,5 @@ h2{
     line-height: 1.6em;
     text-align: justify;
   text-justify: inter-word;
+  
   }

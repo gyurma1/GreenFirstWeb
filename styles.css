@@ -30,13 +30,17 @@ ul {
     
   }
   
-  li {
+  /*li {
     float: right;
     text-align: -webkit-match-parent;
    
     
+  }*/
+  .ul-1 li
+  {
+display: inline;
+float: right;
   }
-  
   li a {
     /*display: block;*/
     color: white;

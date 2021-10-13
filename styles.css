@@ -54,7 +54,7 @@ float: right;
     background-color: #111;
   }
 body{
-    background-image: url("/assets/topography.png");
+    background-image: url("assets/topography.png");
     padding:10%;
     line-height: 50px;
 }
